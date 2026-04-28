@@ -3,7 +3,7 @@
 # ============================================================
 
 # BotFather se mila token
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ⚠️ Sirf yeh change karo - BotFather se lo
+BOT_TOKEN = "8652222167:AAEko4vYMvAH-POCmgZE0M1m5i8BFfNu9_U"  # ⚠️ Sirf yeh change karo - BotFather se lo
 
 # Apna Telegram User ID (admin)
 ADMIN_IDS = [1804574038]
